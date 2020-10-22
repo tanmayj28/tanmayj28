@@ -32,6 +32,5 @@ I am a Software Engineer from India 🇮🇳. I am interested in, write about an
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayj28&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-[1]: https://www.linkedin.com/in/natterstefan
-[2]: https://www.twitter.com/natterstefan
-[3]: https://nttr.st/2QoQhEb
+[1]: https://www.linkedin.com/in/tanmay-jain-71287b135
+[2]: https://www.twitter.com/thisTanmayJn
